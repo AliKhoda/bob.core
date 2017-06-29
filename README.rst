@@ -2,9 +2,9 @@
 .. Wed 10 Aug 2016 14:00:41 CEST
 
 .. image:: http://img.shields.io/badge/docs-stable-yellow.svg
-   :target: http://pythonhosted.org/bob.core/index.html
+   :target: https://www.idiap.ch/software/bob/docs/bob/bob.core/stable/index.html
 .. image:: http://img.shields.io/badge/docs-latest-orange.svg
-   :target: https://www.idiap.ch/software/bob/docs/latest/bob/bob.core/master/index.html
+   :target: https://www.idiap.ch/software/bob/docs/bob/bob.core/master/index.html
 .. image:: https://gitlab.idiap.ch/bob/bob.core/badges/master/build.svg
    :target: https://gitlab.idiap.ch/bob/bob.core/commits/master
 .. image:: https://gitlab.idiap.ch/bob/bob.core/badges/master/coverage.svg
