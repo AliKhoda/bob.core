@@ -25,7 +25,7 @@ stages:
     - mkdir _ci
     - curl --silent "https://gitlab.idiap.ch/bob/bob.admin/raw/master/gitlab/install.sh" > _ci/install.sh
     - chmod 755 _ci/install.sh
-    - ./_ci/install.sh _ci #updates
+    - ./_ci/install.sh _ci virtualenv #updates
     - ./_ci/before_build.sh
   script:
     - ./_ci/build.sh
