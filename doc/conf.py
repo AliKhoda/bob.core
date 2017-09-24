@@ -28,13 +28,6 @@ extensions = [
     'sphinx.ext.mathjax',
     ]
 
-# import sphinx
-# if sphinx.__version__ >= "1.4.1":
-#     extensions.append('sphinx.ext.imgmath')
-#     imgmath_image_format = 'svg'
-# else:
-#     extensions.append('sphinx.ext.pngmath')
-
 # Be picky about warnings
 nitpicky = True
 
